@@ -1,7 +1,6 @@
 title: "vTomBlog"
 tagline: "Oh look! A rabbit..."
 description: "Rebuilt from WordPress export"
-theme: minima
 author: Tom
 markdown: kramdown
 
