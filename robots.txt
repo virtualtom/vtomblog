@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://virtualtom.github.io/vtomblog/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCKDisallow: */cache/ionos-performance/
